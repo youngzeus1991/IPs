@@ -2,7 +2,7 @@
 #        File: Other/Scanner
 # Description: Scans your network for open ports / vulnerabilities
 #    IP Count: 40 *Not Counting Ranges
-#     Updated: 12/16/2022  14:21 (2:21 PM CST)
+#     Updated: 12/16/2022  15:21 (3:21 PM CST)
 #     Creator: ShadowWhisperer  (Sean H.)
 #
 #  curl -s https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Scanners
